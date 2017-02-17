@@ -1,0 +1,109 @@
+anlamlar.txt
+============
+
+anlamlar.txt dosyası 10535 adet kelimenin çevrimiçi bir sözlükteki
+anlamlarını içermektedir. Kelimeler ve anlamları ** dizgesi ile
+birbirlerinden ayrılmıştır. Dosyanın her bir satırında bir kelime
+ve anlamı yer almaktadır. Dosya oluşturulurken birden fazla anlam
+içeren kelimelerin sadece ilk anlamları alınmıştır.
+
+
+Son Güncelleme: 13 Eylül 2002
+Oluşturan: M. Fatih AMASYALI - Yıldız Teknik Üniversitesi
+Veri kümesi ile ilgili sorularınız için: mfatih at ce.yildiz.edu.tr
+
+￼Kemik Doğal Dil İşleme Grubu - Kelime Anlamları Veri Kümesi
+
+http://www.kemik.yildiz.edu.tr/?id=28
+http://www.kemik.yildiz.edu.tr/data/File/Kelime_anlamlari.zip
+
+
+kelime-esanlamlisi.txt
+======================
+
+relations.txt ve viki_rels.txt dosyalarından yararlanılarak
+hazırlanmış bir eşanlamlılar sözlüğüdür. Kelime Eşanlamlısı
+yapısındadır. Sözlük biçimsel ve anlamsal olarak bazı hatalar
+barındırmaktadır. Bunlar elle düzeltilme aşamasındadır.
+
+Son Güncelleme: 29 Temmuz 2012
+Oluşturan: Anıl Özbek
+
+https://raw.github.com/maidis/mythes-tr/master/veriler/kelime-esanlamlisi.txt
+
+
+kelime-listesi.txt
+==================
+
+İnternet üzerindeki bir Windows tabanlı Türkçe sözlükteki  ve
+kelime-esanlamlisi.txt dosyasındaki kelimelerin birleşiminden
+oluşmuştur. 88705 adet kelime içermektedir. Dosya üzerinde bazı
+düzenlemeler ve kelime çıkarımları yapılması gerekebilir. Dosya
+eşanlamlılar sözlüğü boyunca değiştirileceği için dosyanın ilk
+haline kelime-listesi-ilk.txt dosyasından ulaşabilirsiniz.
+
+İlk harflere göre ortalama kelime sayısı aşağıdaki gibidir:
+
+a 7222
+b 6736
+c 1530
+ç 3008
+d 5431
+e 3278
+f 1782
+g 3954
+ğ 2
+h 3488
+ı 670
+i 3760
+j 128
+k 10023
+l 1088
+m 5253
+n 1455
+o 1548
+ö 1289
+p 2837
+q 5
+r 1192
+s 6661
+ş 1207
+t 6074
+u 1119
+ü 737
+v 1033
+w 7
+x 8
+y 4866
+z 1094
+
+Son Güncelleme: 29 Temmuz 2012
+Oluşturan: Anıl Özbek
+
+https://raw.github.com/maidis/mythes-tr/master/veriler/kelime-listesi.txt
+https://raw.github.com/maidis/mythes-tr/master/veriler/kelime-listesi-ilk.txt
+
+
+relations.txt ve viki_rels.txt
+==============================
+
+Bu dosyalar, TDK sözlüğü ve Vikisözlük'ten çıkarılmış, Türkçe 127203
+adet anlamsal ilişkinin bulunduğu veri kümesini içerir.
+￼
+Dosyaların biçimi Kavram1 ilişkitürü Kavram2 frekans şeklindedir.
+Hangi kavramın hangi kavramla nasıl bir ilişkide olduğunu
+göstermektedir. Örneğin özgür  SYNONYMY hür    7 satırı, özgür
+kavramının hür kavramına eşanlamlılık ilişkisiyle bağlı olduğunu
+ve bu ilişkinin kaynak sözlüklerde toplam 7 kez bulunduğunu
+göstermektedir. Veriler Vikisözluk ve TDK sözlüğünden otomatik
+olarak elde edilmiştir.
+
+Son Güncelleme: 12 Ağustos 2010 
+Oluşturan: Emre Yıldız - Yıldız Teknik Üniversitesi
+Veri kümesi ile ilgili sorularınız için: mfatih at ce.yildiz.edu.tr 
+
+￼Kemik Doğal Dil İşleme Grubu - Anlamsal İlişkiler Veri Kümesi
+
+http://www.kemik.yildiz.edu.tr/?id=28
+http://www.kemik.yildiz.edu.tr/data/File/TDK_viki.rar
+
